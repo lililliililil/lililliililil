@@ -1,7 +1,7 @@
 ### About
 <h1 align="left">Hi 👋,This is lililliililil, a developer</h1>
 
-<img src="https://cdn.discordapp.com/attachments/1216301450444017697/1236997193811099728/bd.png?ex=663a0ae9&is=6638b969&hm=19218a3a82d9c3aa2db8e8d99992e0e46c6f6f899f704bff096042931e0143cd&" alt="c" width="1000" height="450"/>
+<img src="https://cdn.discordapp.com/attachments/1216301450444017697/1236997193811099728/bd.png?ex=663a0ae9&is=6638b969&hm=19218a3a82d9c3aa2db8e8d99992e0e46c6f6f899f704bff096042931e0143cd&" alt="c" width="auto" height="auto"/>
 
 <h2 align="left">ABOUT</h2>
 <h3 align="left">I work better than yesterday to make a better project! I thrive in collaborative environments where creativity and innovation are encouraged, and I'm always eager to learn new technologies and methodologies. I'm always passionate about coding and do my best!</h3>
