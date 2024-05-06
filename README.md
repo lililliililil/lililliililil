@@ -7,7 +7,7 @@
 <h3 align="left">I work better than yesterday to make a better project! I thrive in collaborative environments where creativity and innovation are encouraged, and I'm always eager to learn new technologies and methodologies. I'm always passionate about coding and do my best!</h3>
 
 <h2 align="left">GOALS</h2>
-<h3 align="left">It may not be possible, but my goal is to make a small contribution to IT, or programming. Or I want to create an innovative coding world with you. I will try to make coding the center and heart of our lives.</h2>
+<h3 align="left">It may not be possible, but my goal is to make a small contribution to IT, or programming. Or I want to create an innovative coding world with you. I will try to make coding the center and heart of our lives.</h3>
 
 <h2  align="left">website www.lililliililil.kro.kr/home
 
