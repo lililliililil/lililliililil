@@ -1,4 +1,4 @@
-### About
+### PROFILE
 <h1 align="left">Hi 👋,This is lililliililil, a developer</h1>
 
 <img src="https://cdn.discordapp.com/attachments/1216301450444017697/1236997193811099728/bd.png?ex=663a0ae9&is=6638b969&hm=19218a3a82d9c3aa2db8e8d99992e0e46c6f6f899f704bff096042931e0143cd&" alt="c" width="auto" height="auto"/>
