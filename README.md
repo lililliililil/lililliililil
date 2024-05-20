@@ -1,7 +1,7 @@
 ### PROFILE
 <h1 align="center">Hi 👋,This is lililliililil, a developer</h1>
 
-<img src="https://cdn.discordapp.com/attachments/1216301450444017697/1236997193811099728/bd.png?ex=663a0ae9&is=6638b969&hm=19218a3a82d9c3aa2db8e8d99992e0e46c6f6f899f704bff096042931e0143cd&" alt="c" width="auto" height="auto"/>
+<img src="https://lh3.googleusercontent.com/ZJs7iKOjTqxy-Jx7l5zURrFtJRUEXnTIfQWw81be1J1DKDkmhY2mQ_1fVV646Q6D0KTlatW6F8PbJpgbhWd2oByVJKmvHBtKW-moU2YG6f3HLDWf-bbytO1tTGHxHOM-cQ=w1280" alt="c" width="auto" height="auto"/>
 
 <h2 align="center">ABOUT</h2>
 <h3 align="center">I work better than yesterday to make a better project! I thrive in collaborative environments where creativity and innovation are encouraged, and I'm always eager to learn new technologies and methodologies. I'm always passionate about coding and do my best!</h3>
