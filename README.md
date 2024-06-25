@@ -9,7 +9,7 @@
 <h2 align="center">GOALS</h2>
 <h3 align="center">It may not be possible, but my goal is to make a small contribution to IT, or programming. Or I want to create an innovative coding world with you. I will try to make coding the center and heart of our lives.</h3>
 
-<h2  align="center">website 
+<h2  align="center">website | 
 https://barcode-cloudflare.pages.dev</h2>
 
 <h2 align="center">Languages and Tools:</h3>
