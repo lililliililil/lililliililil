@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,This is lililliililil, a developer</h1>
 
-  <h1 align="center">Barcode</h1><p align="center">@lililliililil</p>
+  <strong><h1 align="center">Barcode</h1><p align="center">@lililliililil</p></strong>
 
 <h2 align="center">ABOUT</h2>
 <h3 align="center">I work better than yesterday to make a better project! I thrive in collaborative environments where creativity and innovation are encouraged, and I'm always eager to learn new technologies and methodologies. I'm always passionate about coding and do my best!</h3>
