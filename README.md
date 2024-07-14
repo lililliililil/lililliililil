@@ -1,10 +1,6 @@
-### PROFILE
 <h1 align="center">Hi 👋,This is lililliililil, a developer</h1>
 
-<div class="barcode">
-  <h1>Barcode</h1>
-  <a herf="https://github.com/lililliililil"><p>@lililliililil</p></a>
-</div>
+  <h1 align="center">Barcode</h1><p align="center">@lililliililil</p>
 
 <h2 align="center">ABOUT</h2>
 <h3 align="center">I work better than yesterday to make a better project! I thrive in collaborative environments where creativity and innovation are encouraged, and I'm always eager to learn new technologies and methodologies. I'm always passionate about coding and do my best!</h3>
@@ -21,7 +17,3 @@ https://barcode-cloudflare.pages.dev</h2>
   
 <h2 align="center">Scrowl down to see my works!</h2>
 <h3  align="center">It will add more!</h3>
-
-<style>
-  
-</style>
